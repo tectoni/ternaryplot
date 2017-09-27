@@ -355,7 +355,7 @@ if (showTicks) {
 	if (currentSelectionIndexes != nil)
 	{
 		NSBezierPath *path = [NSBezierPath bezierPath];
-		unsigned int index = [currentSelectionIndexes firstIndex];
+		NSUInteger index = [currentSelectionIndexes firstIndex];
 		while (index != NSNotFound)
 		{
 			graphic = [graphicsArray objectAtIndex:index];
