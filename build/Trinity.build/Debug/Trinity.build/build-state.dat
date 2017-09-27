@@ -1,0 +1,2664 @@
+TTrinity
+v7
+r0
+t328226955.854775
+cCheck dependencies
+cProcessInfoPlistFile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Info.plist Info.plist
+cCpResource build/Debug/Trinity.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCpResource build/Debug/Trinity.app/Contents/Resources/de.lproj/Credits.rtf de.lproj/Credits.rtf
+cStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MainMenu.nib
+cStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MainMenu.nib
+cStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MyDocument.nib
+cStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MyDocument.nib
+cCopyStringsFile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/Trinity.app/Contents/Resources/Views_7.xcclassmodel Views_7.xcclassmodel
+cCpResource build/Debug/Trinity.app/Contents/Resources/Views_6.xcclassmodel Views_6.xcclassmodel
+cCpResource build/Debug/Trinity.app/Contents/Resources/dreieck.icns dreieck.icns
+cCpResource build/Debug/Trinity.app/Contents/Resources/Views_3.xcclassmodel Views_3.xcclassmodel
+cCopyStringsFile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+cCopyStringsFile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj/Localizable.strings de.lproj/Localizable.strings
+cCompileXIB /Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/Preferences.xib
+cCompileXIB /Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/Preferences.xib
+cCpResource build/Debug/Trinity.app/Contents/Resources/dsa_pub.pem dsa_pub.pem
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o /Users/pappel/coding/Objective-C/Trinity1.7/main.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o /Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o /Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o /Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o /Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o /Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o /Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o /Users/pappel/coding/Objective-C/Trinity1.7/Headers.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o /Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o /Users/pappel/coding/Objective-C/Trinity1.7/SelData.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/PreferenceController.o /Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/AppController.o /Users/pappel/coding/Objective-C/Trinity1.7/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cLd /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/MacOS/Trinity normal i386
+cPBXCp build/Debug/Trinity.app/Contents/Frameworks/Sparkle.framework Sparkle.framework
+cTouch /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app
+
+N/Developer-3/SDKs/MacOSX10.4u.sdk
+c000000004A1199E200000000000000EE
+t1242667490
+s238
+
+N/Developer-3/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.4u.sdk
+c000000004AC5F97600000000000000EE
+t1254488438
+s238
+
+N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Users/pappel/Desktop/Trinity1.6/DiagramView.h
+c0000000048BBC938000000000000077A
+t1220266296
+s1914
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/Desktop/Trinity1.6/DiagramView.m
+c000000004A77513D0000000000005AF0
+t1249333565
+s23280
+i"DiagramView.h"
+i"Graphic.h"
+i"Headers.h"
+i"SelData.h"
+
+N/Users/pappel/Desktop/Trinity1.6/English.lproj/Credits.rtf
+c000000004A7AB40E0000000000001DD5
+t1249555470
+s7637
+
+N/Users/pappel/Desktop/Trinity1.6/English.lproj/InfoPlist.strings
+c000000004A7AB40F00000000000000C4
+t1249555471
+s196
+
+N/Users/pappel/Desktop/Trinity1.6/English.lproj/Localizable.strings
+c0000000048BBF0FA0000000000000102
+t1220276474
+s258
+
+N/Users/pappel/Desktop/Trinity1.6/English.lproj/MainMenu.nib
+c0000000048BD9B1600000000000000AA
+t1220385558
+s170
+
+N/Users/pappel/Desktop/Trinity1.6/English.lproj/MyDocument.nib
+c0000000048BD9B2600000000000000AA
+t1220385574
+s170
+
+N/Users/pappel/Desktop/Trinity1.6/German.lproj/Credits.rtf
+c000000004A7AB4450000000000001DAA
+t1249555525
+s7594
+
+N/Users/pappel/Desktop/Trinity1.6/German.lproj/Localizable.strings
+c0000000048BBF0F40000000000000115
+t1220276468
+s277
+
+N/Users/pappel/Desktop/Trinity1.6/German.lproj/MainMenu.nib
+c0000000048BD9B3600000000000000AA
+t1220385590
+s170
+
+N/Users/pappel/Desktop/Trinity1.6/German.lproj/MyDocument.nib
+c0000000048F85F1100000000000000AA
+t1224236817
+s170
+
+N/Users/pappel/Desktop/Trinity1.6/Graphic.h
+c0000000047912ED00000000000000368
+t1200697040
+s872
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/Desktop/Trinity1.6/Graphic.m
+c0000000047792134000000000000010E
+t1199120692
+s270
+i"Graphic.h"
+
+N/Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.h
+c000000004A7973A1000000000000030F
+t1249473441
+s783
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m
+c00000000488703C60000000000001768
+t1216807878
+s5992
+i"GraphicsArrayController.h"
+i"Symbol.h"
+
+N/Users/pappel/Desktop/Trinity1.6/Headers.h
+c0000000048B5CF0400000000000001C6
+t1219874564
+s454
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/Desktop/Trinity1.6/Headers.m
+c0000000048B5CF6E00000000000004FF
+t1219874670
+s1279
+i"Headers.h"
+
+N/Users/pappel/Desktop/Trinity1.6/HeadersController.h
+c000000004794BCAC00000000000000E1
+t1200929964
+s225
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/Desktop/Trinity1.6/HeadersController.m
+c00000000479370540000000000000107
+t1200844884
+s263
+i"HeadersController.h"
+i"Headers.h"
+
+N/Users/pappel/Desktop/Trinity1.6/MyDocument.h
+c000000004A7972F100000000000006F8
+t1249473265
+s1784
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/Desktop/Trinity1.6/MyDocument.m
+c000000004A7972F20000000000003362
+t1249473266
+s13154
+i"MyDocument.h"
+i"DiagramView.h"
+i"Headers.h"
+i"MyDocument_Pasteboard.h"
+i"GraphicsArrayController.h"
+
+N/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.h
+c00000000485181B4000000000000022B
+t1213301172
+s555
+i"MyDocument.h"
+
+N/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m
+c000000004885EC080000000000000823
+t1216736264
+s2083
+i"MyDocument_Pasteboard.h"
+
+N/Users/pappel/Desktop/Trinity1.6/SelData.h
+c000000004A76D49A000000000000020F
+t1249301658
+s527
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/Desktop/Trinity1.6/SelData.m
+c000000004A7AB21D00000000000006CF
+t1249554973
+s1743
+i"SelData.h"
+
+N/Users/pappel/Desktop/Trinity1.6/Symbol+Archiving.m
+c000000004796077A000000000000070A
+t1201014650
+s1802
+i"Symbol.h"
+
+N/Users/pappel/Desktop/Trinity1.6/Symbol.h
+c00000000479607E40000000000000271
+t1201014756
+s625
+i<Cocoa/Cocoa.h>
+i"Graphic.h"
+
+N/Users/pappel/Desktop/Trinity1.6/Symbol.m
+c0000000047D6D4B200000000000013AD
+t1205261490
+s5037
+i"Symbol.h"
+
+N/Users/pappel/Desktop/Trinity1.6/Views_3.xcclassmodel
+c0000000048BD9BA20000000000000088
+t1220385698
+s136
+
+N/Users/pappel/Desktop/Trinity1.6/Views_6.xcclassmodel
+c0000000048BD9BA80000000000000088
+t1220385704
+s136
+
+N/Users/pappel/Desktop/Trinity1.6/Views_7.xcclassmodel
+c0000000048BD9BB00000000000000088
+t1220385712
+s136
+
+N/Users/pappel/Desktop/Trinity1.6/ZoomScrollView.h
+c00000000479B61D400000000000000BE
+t1201365460
+s190
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/Desktop/Trinity1.6/ZoomScrollView.m
+c0000000047BD7DF60000000000000752
+t1203600886
+s1874
+i"ZoomScrollView.h"
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app
+t1253797102
+s102
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Info.plist
+t1253797096
+s1311
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/MacOS/Trinity
+t1253797102
+s91652
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/PkgInfo
+t1253797096
+s8
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/Credits.rtf
+t1253797096
+s7637
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1253797097
+s196
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/Localizable.strings
+t1253797097
+s518
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/MainMenu.nib
+t1253797097
+s13880
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/MyDocument.nib
+t1253797097
+s29036
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/Credits.rtf
+t1253797096
+s7594
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/Localizable.strings
+t1253797097
+s546
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/MainMenu.nib
+t1253797097
+s14213
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/MyDocument.nib
+t1253797097
+s29086
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/Views_3.xcclassmodel
+t1253797097
+s136
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/Views_6.xcclassmodel
+t1253797097
+s136
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/Views_7.xcclassmodel
+t1253797097
+s136
+
+N/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/dreieck.icns
+t1253797097
+s33495
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o
+t1253797099
+s95368
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o
+t1253797100
+s5076
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o
+t1253797100
+s40228
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o
+t1253797101
+s12956
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o
+t1253797101
+s5500
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o
+t1253797099
+s68280
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o
+t1253797102
+s21780
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o
+t1253797102
+s13516
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o
+t1253797101
+s12912
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o
+t1253797099
+s32748
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity.LinkFileList
+c000000004ABB6CE8000000000000050F
+t1253797096
+s1295
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o
+t1253797101
+s28968
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o
+t1253797099
+s4664
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/DiagramView.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Graphic.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/GraphicsArrayController.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Headers.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/HeadersController.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument_Pasteboard.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/SelData.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol+Archiving.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/ZoomScrollView.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/main.o
+t2
+s0
+
+N/Users/pappel/Desktop/Trinity1.6/dreieck.icns
+c000000004795F88600000000000082D7
+t1201010822
+s33495
+
+N/Users/pappel/Desktop/Trinity1.6/main.m
+c0000000046E7B54C00000000000000FE
+t1189590348
+s254
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.h
+c0000000048BBC938000000000000077A
+t1220266296
+s1914
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m
+c000000004A77513D0000000000005AF0
+t1249333565
+s23280
+i"DiagramView.h"
+i"Graphic.h"
+i"Headers.h"
+i"SelData.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/English.lproj/Credits.rtf
+c000000004A7AB40E0000000000001DD5
+t1249555470
+s7637
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/English.lproj/InfoPlist.strings
+c000000004A7AB40F00000000000000C4
+t1249555471
+s196
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/English.lproj/Localizable.strings
+c0000000048BBF0FA0000000000000102
+t1220276474
+s258
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/English.lproj/MainMenu.nib
+c0000000048BD9B1600000000000000AA
+t1220385558
+s170
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/English.lproj/MyDocument.nib
+c0000000048BD9B2600000000000000AA
+t1220385574
+s170
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/German.lproj/Credits.rtf
+c000000004A7AB4450000000000001DAA
+t1249555525
+s7594
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/German.lproj/Localizable.strings
+c0000000048BBF0F40000000000000115
+t1220276468
+s277
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/German.lproj/MainMenu.nib
+c0000000048BD9B3600000000000000AA
+t1220385590
+s170
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/German.lproj/MyDocument.nib
+c000000004B9537A00000000000000088
+t1268070304
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/Graphic.h
+c0000000047912ED00000000000000368
+t1200697040
+s872
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/Graphic.m
+c0000000047792134000000000000010E
+t1199120692
+s270
+i"Graphic.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.h
+c000000004A7973A1000000000000030F
+t1249473441
+s783
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m
+c00000000488703C60000000000001768
+t1216807878
+s5992
+i"GraphicsArrayController.h"
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/Headers.h
+c0000000048B5CF0400000000000001C6
+t1219874564
+s454
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/Headers.m
+c0000000048B5CF6E00000000000004FF
+t1219874670
+s1279
+i"Headers.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/HeadersController.h
+c000000004794BCAC00000000000000E1
+t1200929964
+s225
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/HeadersController.m
+c00000000479370540000000000000107
+t1200844884
+s263
+i"HeadersController.h"
+i"Headers.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument.h
+c000000004A7972F100000000000006F8
+t1249473265
+s1784
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument.m
+c000000004A7972F20000000000003362
+t1249473266
+s13154
+i"MyDocument.h"
+i"DiagramView.h"
+i"Headers.h"
+i"MyDocument_Pasteboard.h"
+i"GraphicsArrayController.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.h
+c00000000485181B4000000000000022B
+t1213301172
+s555
+i"MyDocument.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m
+c000000004885EC080000000000000823
+t1216736264
+s2083
+i"MyDocument_Pasteboard.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/SelData.h
+c000000004A76D49A000000000000020F
+t1249301658
+s527
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/SelData.m
+c000000004A7AB21D00000000000006CF
+t1249554973
+s1743
+i"SelData.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/Symbol+Archiving.m
+c000000004796077A000000000000070A
+t1201014650
+s1802
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/Symbol.h
+c00000000479607E40000000000000271
+t1201014756
+s625
+i<Cocoa/Cocoa.h>
+i"Graphic.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/Symbol.m
+c0000000047D6D4B200000000000013AD
+t1205261490
+s5037
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/Views_3.xcclassmodel
+c0000000048BD9BA20000000000000088
+t1220385698
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/Views_6.xcclassmodel
+c0000000048BD9BA80000000000000088
+t1220385704
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/Views_7.xcclassmodel
+c0000000048BD9BB00000000000000088
+t1220385712
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/ZoomScrollView.h
+c00000000479B61D400000000000000BE
+t1201365460
+s190
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/ZoomScrollView.m
+c0000000047BD7DF60000000000000752
+t1203600886
+s1874
+i"ZoomScrollView.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app
+t1287406425
+s102
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Info.plist
+t1253797096
+s1311
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/MacOS/Trinity
+t1287406425
+s202592
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/PkgInfo
+t1253797096
+s8
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/Credits.rtf
+t1253797096
+s7637
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1253797097
+s196
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/Localizable.strings
+t1253797097
+s518
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/MainMenu.nib
+t1253797097
+s13880
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/MyDocument.nib
+t1253797097
+s29036
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/Credits.rtf
+t1253797096
+s7594
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/Localizable.strings
+t1253797097
+s546
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/MainMenu.nib
+t1253797097
+s14213
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/MyDocument.nib
+t1268070307
+s35193
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/Views_3.xcclassmodel
+t1253797097
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/Views_6.xcclassmodel
+t1253797097
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/Views_7.xcclassmodel
+t1253797097
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/dreieck.icns
+t1253797097
+s33495
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o
+t1253797099
+s95368
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o
+t1253797100
+s5076
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o
+t1253797100
+s40228
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o
+t1253797101
+s12956
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o
+t1253797101
+s5500
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o
+t1253797099
+s68280
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o
+t1253797102
+s21780
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o
+t1253797102
+s13516
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o
+t1253797101
+s12912
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o
+t1253797099
+s32748
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity
+t1268069785
+s91784
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity.LinkFileList
+c000000004B6825FB0000000000000593
+t1265116667
+s1427
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o
+t1253797101
+s28968
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o
+t1253797099
+s4664
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/DiagramView.o
+t1287406419
+s107176
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Graphic.o
+t1287406420
+s5168
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/GraphicsArrayController.o
+t1287406420
+s43368
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Headers.o
+t1287406421
+s14320
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/HeadersController.o
+t1287406420
+s5592
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument.o
+t1287406418
+s74844
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument_Pasteboard.o
+t1287406421
+s23108
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/SelData.o
+t1287406421
+s14756
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol+Archiving.o
+t1287406420
+s14276
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol.o
+t1287406419
+s35932
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity
+t1287406424
+s104288
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity.LinkFileList
+c000000004B6825FB0000000000000587
+t1265116667
+s1415
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/ZoomScrollView.o
+t1287406421
+s30476
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/main.o
+t1287406418
+s4932
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/dreieck.icns
+c000000004795F88600000000000082D7
+t1201010822
+s33495
+
+N/Users/pappel/coding/Objective-C/Trinity1.6/main.m
+c0000000046E7B54C00000000000000FE
+t1189590348
+s254
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/AppController.h
+c000000004CBDC866000000000000014A
+t1287506022
+s330
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/AppController.m
+c000000004CBDCB2E000000000000046B
+t1287506734
+s1131
+i"AppController.h"
+i"PreferenceController.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Credits.rtf
+c000000004A7AB40E0000000000001DD5
+t1249555470
+s7637
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.h
+c000000004CBC502F0000000000000700
+t1287409711
+s1792
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m
+c000000004CBC502F000000000000566E
+t1287409711
+s22126
+i"DiagramView.h"
+i"Graphic.h"
+i"Headers.h"
+i"SelData.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/Credits.rtf
+c000000004A7AB40E0000000000001DD5
+t1249555470
+s7637
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/InfoPlist.strings
+c000000004CBE15C400000000000000C4
+t1287525828
+s196
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/Localizable.strings
+c0000000048BBF0FA0000000000000102
+t1220276474
+s258
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MainMenu.nib
+c000000004CC016810000000000000088
+t1287657089
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MyDocument.nib
+c000000004CC00F5F0000000000000088
+t1287655263
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/Preferences.xib
+c000000004CBDEAA70000000000008561
+t1287514791
+s34145
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/Credits.rtf
+c000000004CBE0FA10000000000001DD6
+t1287524257
+s7638
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/Localizable.strings
+c0000000048BBF0F40000000000000115
+t1220276468
+s277
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/MainMenu.nib
+c000000004CBDE31A0000000000000088
+t1287512858
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/MyDocument.nib
+c000000004CBE101B0000000000000088
+t1287524379
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Graphic.h
+c0000000047912ED00000000000000368
+t1200697040
+s872
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m
+c0000000047792134000000000000010E
+t1199120692
+s270
+i"Graphic.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.h
+c000000004A7973A1000000000000030F
+t1249473441
+s783
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m
+c00000000488703C60000000000001768
+t1216807878
+s5992
+i"GraphicsArrayController.h"
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Headers.h
+c0000000048B5CF0400000000000001C6
+t1219874564
+s454
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Headers.m
+c0000000048B5CF6E00000000000004FF
+t1219874670
+s1279
+i"Headers.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.h
+c000000004794BCAC00000000000000E1
+t1200929964
+s225
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m
+c00000000479370540000000000000107
+t1200844884
+s263
+i"HeadersController.h"
+i"Headers.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Localizable.strings
+c0000000048BBF0FA0000000000000102
+t1220276474
+s258
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/MainMenu.nib
+c000000004CBDE38D0000000000000088
+t1287512973
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.h
+c000000004CBDCAAC0000000000000771
+t1287506604
+s1905
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m
+c000000004CBE10270000000000003847
+t1287524391
+s14407
+i"MyDocument.h"
+i"DiagramView.h"
+i"Headers.h"
+i"MyDocument_Pasteboard.h"
+i"GraphicsArrayController.h"
+i"PreferenceController.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.nib
+c000000004CBE0EB10000000000000088
+t1287524017
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.h
+c00000000485181B4000000000000022B
+t1213301172
+s555
+i"MyDocument.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m
+c000000004885EC080000000000000823
+t1216736264
+s2083
+i"MyDocument_Pasteboard.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.h
+c000000004CBDFE9B000000000000016D
+t1287519899
+s365
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m
+c000000004CBDFE9B0000000000000262
+t1287519899
+s610
+i"PreferenceController.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Preferences.xib
+c000000004CBDEAA70000000000008561
+t1287514791
+s34145
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/SelData.h
+c000000004A76D49A000000000000020F
+t1249301658
+s527
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/SelData.m
+c000000004A7AB21D00000000000006CF
+t1249554973
+s1743
+i"SelData.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Sparkle.framework
+c000000004CAA312A00000000000000CC
+t1286222122
+s204
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Sparkle.framework/Sparkle
+c0000000048CC84C200000000000712B4
+t1221362882
+s463540
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m
+c000000004796077A000000000000070A
+t1201014650
+s1802
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Symbol.h
+c00000000479607E40000000000000271
+t1201014756
+s625
+i<Cocoa/Cocoa.h>
+i"Graphic.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m
+c0000000047D6D4B200000000000013AD
+t1205261490
+s5037
+i"Symbol.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Views_3.xcclassmodel
+c0000000048BD9BA20000000000000088
+t1220385698
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Views_6.xcclassmodel
+c0000000048BD9BA80000000000000088
+t1220385704
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/Views_7.xcclassmodel
+c0000000048BD9BB00000000000000088
+t1220385712
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.h
+c00000000479B61D400000000000000BE
+t1201365460
+s190
+i<Cocoa/Cocoa.h>
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m
+c0000000047BD7DF60000000000000752
+t1203600886
+s1874
+i"ZoomScrollView.h"
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app
+t1306534155
+s102
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Frameworks/Sparkle.framework
+t1306534155
+s204
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Info.plist
+t1306534149
+s1864
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/MacOS/Trinity
+t1306534155
+s93820
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/PkgInfo
+t1306534149
+s8
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/Credits.rtf
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/Credits.rtf
+t1306534149
+s7637
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1306534150
+s196
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/Localizable.strings
+t1306534150
+s518
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/MainMenu.nib
+t1306534149
+s16684
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/MyDocument.nib
+t1306534149
+s35529
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/Preferences.nib
+t1306534150
+s3872
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/German.lproj/Credits.rtf
+t1287525439
+s7638
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/German.lproj/Localizable.strings
+t1287525440
+s546
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/German.lproj/MainMenu.nib
+t1287514904
+s17895
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/German.lproj/MyDocument.nib
+t1287524391
+s35348
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/Localizable.strings
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/MainMenu.nib
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/MyDocument.nib
+t2
+s0
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/Preferences.nib
+t1287524741
+s3872
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/Views_3.xcclassmodel
+t1306534150
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/Views_6.xcclassmodel
+t1306534150
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/Views_7.xcclassmodel
+t1306534150
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj/Credits.rtf
+t1306534149
+s7638
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj/Localizable.strings
+t1306534150
+s546
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj/MainMenu.nib
+t1306534149
+s17817
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj/MyDocument.nib
+t1306534149
+s35333
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj/Preferences.nib
+t1306534150
+s3901
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/dreieck.icns
+t1306534150
+s33495
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/dsa_pub.pem
+t1306534150
+s1178
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/AppController.o
+t1306534155
+s21812
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o
+t1306534152
+s90088
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o
+t1306534152
+s5104
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o
+t1306534152
+s40260
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o
+t1306534153
+s12988
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o
+t1306534153
+s5500
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o
+t1306534151
+s70980
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o
+t1306534154
+s21812
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/PreferenceController.o
+t1306534154
+s18100
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o
+t1306534154
+s13548
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o
+t1306534153
+s12944
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o
+t1306534151
+s32780
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity
+t1287738763
+s93816
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity.LinkFileList
+c000000004CC15580000000000000068A
+t1287738752
+s1674
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o
+t1306534154
+s29000
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o
+t1306534151
+s4692
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/AppController.o
+t1287738767
+s22652
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/DiagramView.o
+t1287738765
+s101472
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Graphic.o
+t1287738765
+s5168
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/GraphicsArrayController.o
+t1287738765
+s43368
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Headers.o
+t1287738766
+s14320
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/HeadersController.o
+t1287738766
+s5592
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument.o
+t1287738763
+s77924
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument_Pasteboard.o
+t1287738766
+s23108
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/PreferenceController.o
+t1287738767
+s18660
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/SelData.o
+t1287738767
+s14756
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol+Archiving.o
+t1287738765
+s14276
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol.o
+t1287738764
+s35932
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity
+t1287738768
+s106188
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity.LinkFileList
+c000000004CC15580000000000000067C
+t1287738752
+s1660
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/ZoomScrollView.o
+t1287738766
+s30476
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/main.o
+t1287738764
+s4932
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/Credits.rtf
+c000000004CBE0FA10000000000001DD6
+t1287524257
+s7638
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/Localizable.strings
+c0000000048BBF0F40000000000000115
+t1220276468
+s277
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MainMenu.nib
+c000000004CC016620000000000000088
+t1287657058
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MyDocument.nib
+c000000004CBEC3650000000000000088
+t1287570277
+s136
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/Preferences.xib
+c000000004CBDEAED0000000000008576
+t1287514861
+s34166
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/dreieck.icns
+c000000004795F88600000000000082D7
+t1201010822
+s33495
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/dsa_pub.pem
+c000000004CC154DB000000000000049A
+t1287738587
+s1178
+
+N/Users/pappel/coding/Objective-C/Trinity1.7/main.m
+c0000000046E7B54C00000000000000FE
+t1189590348
+s254
+i<Cocoa/Cocoa.h>
+
+NInfo.plist
+c000000004CC18B5700000000000005CB
+t1287752535
+s1483
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328226949#328226949#0(0"0(0#1#0"8606979264#0"0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/AppController.o /Users/pappel/coding/Objective-C/Trinity1.7/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226954.673199
+e328226955.248258
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/AppController.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/AppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@67"Compile /Users/pappel/coding/Objective-C/Trinity1.7/AppController.m328226954#328226955#0(0"0(0#0#59"/Users/pappel/coding/Objective-C/Trinity1.7/AppController.m8620833952#1008"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/AppController.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/AppController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o /Users/pappel/Desktop/Trinity1.6/DiagramView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489899.077494
+e275489899.821324
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o
+x/Users/pappel/Desktop/Trinity1.6/DiagramView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/Desktop/Trinity1.6/DiagramView.m:890: warning: incomplete implementation of class 'DiagramView'
+o/Users/pappel/Desktop/Trinity1.6/DiagramView.m:890: warning: method definition for '-zoomLevel:' not found
+lSLF07#2@54"Compile /Users/pappel/Desktop/Trinity1.6/DiagramView.m275489899#275489899#0(217"/Users/pappel/Desktop/Trinity1.6/DiagramView.m:890: warning: incomplete implementation of class 'DiagramView'/Users/pappel/Desktop/Trinity1.6/DiagramView.m:890: warning: method definition for '-zoomLevel:' not found2(22@48"Incomplete implementation of class 'DiagramView'275489899#0#110#0(6@46"/Users/pappel/Desktop/Trinity1.6/DiagramView.m271026365#890#0#890#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-zoomLevel:' not found275489899#110#107#0(6@46"/Users/pappel/Desktop/Trinity1.6/DiagramView.m271026365#890#0#890#0#35"method definition for '*' not found0(0#0#46"/Users/pappel/Desktop/Trinity1.6/DiagramView.m4300882208#866"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/DiagramView.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o /Users/pappel/Desktop/Trinity1.6/DiagramView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o /Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o /Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226951.351760
+e328226952.085406
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m:843: warning: incomplete implementation of class 'DiagramView'
+o/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m:843: warning: method definition for '-zoomLevel:' not found
+lSLF07#2@65"Compile /Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m328226951#328226952#0(239"/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m:843: warning: incomplete implementation of class 'DiagramView'/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m:843: warning: method definition for '-zoomLevel:' not found2(22@48"Incomplete implementation of class 'DiagramView'328226952#0#121#0(6@57"/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m309102511#843#0#843#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-zoomLevel:' not found328226952#121#118#0(6@57"/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m309102511#843#0#843#0#35"method definition for '*' not found0(0#0#57"/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m8619858784#1004"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/DiagramView.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o /Users/pappel/Desktop/Trinity1.6/Graphic.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489899.821417
+e275489900.436784
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o
+x/Users/pappel/Desktop/Trinity1.6/Graphic.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@50"Compile /Users/pappel/Desktop/Trinity1.6/Graphic.m275489899#275489900#0(0"0(0#0#42"/Users/pappel/Desktop/Trinity1.6/Graphic.m4300882208#858"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/Graphic.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o /Users/pappel/Desktop/Trinity1.6/Graphic.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o /Users/pappel/coding/Objective-C/Trinity1.6/Graphic.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o /Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226952.085503
+e328226952.731934
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m328226952#328226952#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m8616987232#996"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Graphic.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o /Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489899.684978
+e275489900.389511
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o
+x/Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':
+o/Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m:219: warning: control reaches end of non-void function
+lSLF07#2@66"Compile /Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m275489899#275489900#0(274"/Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':/Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m:219: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function275489900#160#114#0(6@58"/Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m238500678#219#0#219#0#40"control reaches end of non-void function0(0#0#58"/Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m4300882208#890"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o /Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o /Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o /Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226951.845230
+e328226952.463055
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':
+o/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m:219: warning: control reaches end of non-void function
+lSLF07#2@77"Compile /Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m328226951#328226952#0(296"/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m:219: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function328226952#171#125#0(6@69"/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m238500678#219#0#219#0#40"control reaches end of non-void function0(0#0#69"/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m8620745920#1028"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/GraphicsArrayController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o /Users/pappel/Desktop/Trinity1.6/Headers.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489901.025790
+e275489901.690508
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o
+x/Users/pappel/Desktop/Trinity1.6/Headers.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@50"Compile /Users/pappel/Desktop/Trinity1.6/Headers.m275489901#275489901#0(0"0(0#0#42"/Users/pappel/Desktop/Trinity1.6/Headers.m4300882208#858"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/Headers.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o /Users/pappel/Desktop/Trinity1.6/Headers.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o /Users/pappel/coding/Objective-C/Trinity1.6/Headers.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o /Users/pappel/coding/Objective-C/Trinity1.7/Headers.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226953.048046
+e328226953.664925
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/Headers.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/Trinity1.7/Headers.m328226953#328226953#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/Trinity1.7/Headers.m8610465440#996"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/Headers.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Headers.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o /Users/pappel/Desktop/Trinity1.6/HeadersController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489900.436882
+e275489901.079517
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o
+x/Users/pappel/Desktop/Trinity1.6/HeadersController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@60"Compile /Users/pappel/Desktop/Trinity1.6/HeadersController.m275489900#275489901#0(0"0(0#0#52"/Users/pappel/Desktop/Trinity1.6/HeadersController.m4300882208#878"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/HeadersController.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o /Users/pappel/Desktop/Trinity1.6/HeadersController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o /Users/pappel/coding/Objective-C/Trinity1.6/HeadersController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o /Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226952.732118
+e328226953.325431
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@71"Compile /Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m328226952#328226953#0(0"0(0#0#63"/Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m8617058592#1016"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/HeadersController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o /Users/pappel/Desktop/Trinity1.6/MyDocument.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489897.963698
+e275489899.077398
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o
+x/Users/pappel/Desktop/Trinity1.6/MyDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@53"Compile /Users/pappel/Desktop/Trinity1.6/MyDocument.m275489897#275489899#0(0"0(0#0#45"/Users/pappel/Desktop/Trinity1.6/MyDocument.m4300882208#864"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/MyDocument.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o /Users/pappel/Desktop/Trinity1.6/MyDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o /Users/pappel/coding/Objective-C/Trinity1.6/MyDocument.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226950.467644
+e328226951.351657
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@64"Compile /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m328226950#328226951#0(0"0(0#0#56"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m8611203680#1002"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o /Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489901.690602
+e275489902.322864
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o
+x/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':
+o/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:78: warning: no '-createRecordsFromPasteboard:' method found
+o/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:78: warning: (Messages without a matching method signature
+o/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:78: warning: will be assumed to return 'id' and accept
+o/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:78: warning: '...' as arguments.)
+o/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m: At top level:
+o/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:90: warning: incomplete implementation of category 'Pasteboard'
+o/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:90: warning: method definition for '-readablePasteboardTypes' not found
+lSLF07#2@64"Compile /Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m275489901#275489902#0(886"/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:78: warning: no '-createRecordsFromPasteboard:' method found/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:78: warning: (Messages without a matching method signature/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:78: warning: will be assumed to return 'id' and accept/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:78: warning: '...' as arguments.)/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m: At top level:/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:90: warning: incomplete implementation of category 'Pasteboard'/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m:90: warning: method definition for '-readablePasteboardTypes' not found5(22@47"No '-createRecordsFromPasteboard:' method found275489902#127#118#0(6@56"/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m238429064#78#0#78#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)275489902#245#116#0(6@56"/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m238429064#78#0#78#0#0"0(23@13"At top level:275489902#564#72#0(6@56"/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m238429064#0#0#0#0#0"0(22@50"Incomplete implementation of category 'Pasteboard'275489902#636#121#0(6@56"/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m238429064#90#0#90#0#0"0(22@58"Method definition for '-readablePasteboardTypes' not found275489902#757#129#0(6@56"/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m238429064#90#0#90#0#35"method definition for '*' not found0(0#0#56"/Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m4300882208#886"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o /Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226953.665153
+e328226954.384962
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: no '-createRecordsFromPasteboard:' method found
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m: At top level:
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:90: warning: incomplete implementation of category 'Pasteboard'
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:90: warning: method definition for '-readablePasteboardTypes' not found
+lSLF07#2@75"Compile /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m328226953#328226954#0(974"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: no '-createRecordsFromPasteboard:' method found/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m: At top level:/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:90: warning: incomplete implementation of category 'Pasteboard'/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:90: warning: method definition for '-readablePasteboardTypes' not found5(22@47"No '-createRecordsFromPasteboard:' method found328226954#138#129#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m238429064#78#0#78#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328226954#267#127#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m238429064#78#0#78#0#0"0(23@13"At top level:328226954#619#83#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m238429064#0#0#0#0#0"0(22@50"Incomplete implementation of category 'Pasteboard'328226954#702#132#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m238429064#90#0#90#0#0"0(22@58"Method definition for '-readablePasteboardTypes' not found328226954#834#140#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m238429064#90#0#90#0#35"method definition for '*' not found0(0#0#67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m8616374112#1024"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/MyDocument_Pasteboard.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/PreferenceController.o /Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226954.385146
+e328226955.001084
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/PreferenceController.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@74"Compile /Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m328226954#328226955#0(0"0(0#0#66"/Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m8616943712#1022"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/PreferenceController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o /Users/pappel/Desktop/Trinity1.6/SelData.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489901.741345
+e275489902.407568
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o
+x/Users/pappel/Desktop/Trinity1.6/SelData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@50"Compile /Users/pappel/Desktop/Trinity1.6/SelData.m275489901#275489902#0(0"0(0#0#42"/Users/pappel/Desktop/Trinity1.6/SelData.m4300882208#858"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/SelData.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o /Users/pappel/Desktop/Trinity1.6/SelData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o /Users/pappel/coding/Objective-C/Trinity1.6/SelData.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o /Users/pappel/coding/Objective-C/Trinity1.7/SelData.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226954.068933
+e328226954.673106
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/SelData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/Trinity1.7/SelData.m328226954#328226954#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/Trinity1.7/SelData.m8605598688#996"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/SelData.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/SelData.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o /Users/pappel/Desktop/Trinity1.6/Symbol+Archiving.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489900.389607
+e275489901.025542
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o
+x/Users/pappel/Desktop/Trinity1.6/Symbol+Archiving.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@59"Compile /Users/pappel/Desktop/Trinity1.6/Symbol+Archiving.m275489900#275489901#0(0"0(0#0#51"/Users/pappel/Desktop/Trinity1.6/Symbol+Archiving.m4300882208#876"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/Symbol+Archiving.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o /Users/pappel/Desktop/Trinity1.6/Symbol+Archiving.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o /Users/pappel/coding/Objective-C/Trinity1.6/Symbol+Archiving.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o /Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226952.463148
+e328226953.047952
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@70"Compile /Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m328226952#328226953#0(0"0(0#0#62"/Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m8620756736#1014"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol+Archiving.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o /Users/pappel/Desktop/Trinity1.6/Symbol.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489899.009619
+e275489899.684859
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o
+x/Users/pappel/Desktop/Trinity1.6/Symbol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@49"Compile /Users/pappel/Desktop/Trinity1.6/Symbol.m275489899#275489899#0(0"0(0#0#41"/Users/pappel/Desktop/Trinity1.6/Symbol.m4300882208#856"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/Symbol.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o /Users/pappel/Desktop/Trinity1.6/Symbol.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o /Users/pappel/coding/Objective-C/Trinity1.6/Symbol.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o /Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226951.210682
+e328226951.845134
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@60"Compile /Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m328226951#328226951#0(0"0(0#0#52"/Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m8612243808#994"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Symbol.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o /Users/pappel/Desktop/Trinity1.6/ZoomScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489901.079623
+e275489901.741248
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o
+x/Users/pappel/Desktop/Trinity1.6/ZoomScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@57"Compile /Users/pappel/Desktop/Trinity1.6/ZoomScrollView.m275489901#275489901#0(0"0(0#0#49"/Users/pappel/Desktop/Trinity1.6/ZoomScrollView.m4300882208#872"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/ZoomScrollView.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o /Users/pappel/Desktop/Trinity1.6/ZoomScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o /Users/pappel/coding/Objective-C/Trinity1.6/ZoomScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o /Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226953.325523
+e328226954.068843
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@68"Compile /Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m328226953#328226954#0(0"0(0#0#60"/Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m8620678816#1010"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/ZoomScrollView.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o /Users/pappel/Desktop/Trinity1.6/main.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s275489897.964691
+e275489899.009488
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o
+x/Users/pappel/Desktop/Trinity1.6/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@47"Compile /Users/pappel/Desktop/Trinity1.6/main.m275489897#275489899#0(0"0(0#0#39"/Users/pappel/Desktop/Trinity1.6/main.m4300882208#852"    cd /Users/pappel/Desktop/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/Desktop/Trinity1.6/build/Debug -I/Users/pappel/Desktop/Trinity1.6/build/Debug/include -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/Desktop/Trinity1.6/main.m -o /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o /Users/pappel/Desktop/Trinity1.6/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o /Users/pappel/coding/Objective-C/Trinity1.6/main.m normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o /Users/pappel/coding/Objective-C/Trinity1.7/main.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328226950.468743
+e328226951.210450
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@58"Compile /Users/pappel/coding/Objective-C/Trinity1.7/main.m328226950#328226951#0(0"0(0#0#50"/Users/pappel/coding/Objective-C/Trinity1.7/main.m8620960032#990"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer-3/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/main.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/AppController.o /Users/pappel/coding/Objective-C/Trinity1.7/AppController.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431567.327556
+e309431567.847442
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/AppController.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/AppController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@67"Compile /Users/pappel/coding/Objective-C/Trinity1.7/AppController.m309431567#309431567#0(0"0(0#0#59"/Users/pappel/coding/Objective-C/Trinity1.7/AppController.m8606207840#1011"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/AppController.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/AppController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/DiagramView.o /Users/pappel/Desktop/Trinity1.6/DiagramView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/DiagramView.o /Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099218.794729
+e309099219.493590
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/DiagramView.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m:890: warning: incomplete implementation of class 'DiagramView'
+o/Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m:890: warning: method definition for '-zoomLevel:' not found
+lSLF07#2@65"Compile /Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m309099218#309099219#0(239"/Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m:890: warning: incomplete implementation of class 'DiagramView'/Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m:890: warning: method definition for '-zoomLevel:' not found2(22@48"Incomplete implementation of class 'DiagramView'309099219#0#121#0(6@57"/Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m271026365#890#0#890#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-zoomLevel:' not found309099219#121#118#0(6@57"/Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m271026365#890#0#890#0#35"method definition for '*' not found0(0#0#57"/Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m8617607936#961"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/DiagramView.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/DiagramView.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/DiagramView.o /Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431564.376388
+e309431565.078184
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/DiagramView.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m:843: warning: incomplete implementation of class 'DiagramView'
+o/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m:843: warning: method definition for '-zoomLevel:' not found
+lSLF07#2@65"Compile /Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m309431564#309431565#0(239"/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m:843: warning: incomplete implementation of class 'DiagramView'/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m:843: warning: method definition for '-zoomLevel:' not found2(22@48"Incomplete implementation of class 'DiagramView'309431565#0#121#0(6@57"/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m309102511#843#0#843#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-zoomLevel:' not found309431565#121#118#0(6@57"/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m309102511#843#0#843#0#35"method definition for '*' not found0(0#0#57"/Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m8606798112#1007"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/DiagramView.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/DiagramView.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Graphic.o /Users/pappel/Desktop/Trinity1.6/Graphic.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Graphic.o /Users/pappel/coding/Objective-C/Trinity1.6/Graphic.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099219.493686
+e309099220.079505
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Graphic.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/Graphic.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/Trinity1.6/Graphic.m309099219#309099220#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/Trinity1.6/Graphic.m8617389536#953"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/Graphic.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Graphic.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Graphic.o /Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431565.078290
+e309431565.634791
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Graphic.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m309431565#309431565#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m8604580992#999"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/Graphic.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Graphic.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/GraphicsArrayController.o /Users/pappel/Desktop/Trinity1.6/GraphicsArrayController.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/GraphicsArrayController.o /Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099219.404356
+e309099220.031684
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/GraphicsArrayController.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':
+o/Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m:219: warning: control reaches end of non-void function
+lSLF07#2@77"Compile /Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m309099219#309099220#0(296"/Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':/Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m:219: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function309099219#171#125#0(6@69"/Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m238500678#219#0#219#0#40"control reaches end of non-void function0(0#0#69"/Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m8614556704#985"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/GraphicsArrayController.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/GraphicsArrayController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/GraphicsArrayController.o /Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431564.499368
+e309431565.102437
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/GraphicsArrayController.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':
+o/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m:219: warning: control reaches end of non-void function
+lSLF07#2@77"Compile /Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m309431564#309431565#0(296"/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m: In function '-[GraphicsArrayController tableView:validateDrop:proposedRow:proposedDropOperation:]':/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m:219: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function309431565#171#125#0(6@69"/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m238500678#219#0#219#0#40"control reaches end of non-void function0(0#0#69"/Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m8605114688#1031"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/GraphicsArrayController.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/GraphicsArrayController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Headers.o /Users/pappel/Desktop/Trinity1.6/Headers.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Headers.o /Users/pappel/coding/Objective-C/Trinity1.6/Headers.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099220.631922
+e309099221.276840
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Headers.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/Headers.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/Trinity1.6/Headers.m309099220#309099221#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/Trinity1.6/Headers.m8617478400#953"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/Headers.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Headers.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Headers.o /Users/pappel/coding/Objective-C/Trinity1.7/Headers.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431565.651571
+e309431566.236559
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Headers.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/Headers.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/Trinity1.7/Headers.m309431565#309431566#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/Trinity1.7/Headers.m8606686496#999"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/Headers.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Headers.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/HeadersController.o /Users/pappel/Desktop/Trinity1.6/HeadersController.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/HeadersController.o /Users/pappel/coding/Objective-C/Trinity1.6/HeadersController.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099220.079603
+e309099220.631709
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/HeadersController.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/HeadersController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@71"Compile /Users/pappel/coding/Objective-C/Trinity1.6/HeadersController.m309099220#309099220#0(0"0(0#0#63"/Users/pappel/coding/Objective-C/Trinity1.6/HeadersController.m8608917824#973"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/HeadersController.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/HeadersController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/HeadersController.o /Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431565.634993
+e309431566.185527
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/HeadersController.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@71"Compile /Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m309431565#309431566#0(0"0(0#0#63"/Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m8606516352#1019"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/HeadersController.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/HeadersController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument.o /Users/pappel/Desktop/Trinity1.6/MyDocument.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument.o /Users/pappel/coding/Objective-C/Trinity1.6/MyDocument.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099216.678173
+e309099218.794624
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@64"Compile /Users/pappel/coding/Objective-C/Trinity1.6/MyDocument.m309099216#309099218#0(0"0(0#0#56"/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument.m4934059732688203776#959"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/MyDocument.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument.o /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431562.347686
+e309431563.769861
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@64"Compile /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m309431562#309431563#0(0"0(0#0#56"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m8604785120#1005"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument_Pasteboard.o /Users/pappel/Desktop/Trinity1.6/MyDocument_Pasteboard.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099221.276937
+e309099221.878653
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument_Pasteboard.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':
+o/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:78: warning: no '-createRecordsFromPasteboard:' method found
+o/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:78: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:78: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:78: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m: At top level:
+o/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:90: warning: incomplete implementation of category 'Pasteboard'
+o/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:90: warning: method definition for '-readablePasteboardTypes' not found
+lSLF07#2@75"Compile /Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m309099221#309099221#0(974"/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:78: warning: no '-createRecordsFromPasteboard:' method found/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:78: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:78: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:78: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m: At top level:/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:90: warning: incomplete implementation of category 'Pasteboard'/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m:90: warning: method definition for '-readablePasteboardTypes' not found5(22@47"No '-createRecordsFromPasteboard:' method found309099221#138#129#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m238429064#78#0#78#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)309099221#267#127#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m238429064#78#0#78#0#0"0(23@13"At top level:309099221#619#83#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m238429064#0#0#0#0#0"0(22@50"Incomplete implementation of category 'Pasteboard'309099221#702#132#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m238429064#90#0#90#0#0"0(22@58"Method definition for '-readablePasteboardTypes' not found309099221#834#140#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m238429064#90#0#90#0#35"method definition for '*' not found0(0#0#67"/Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m8616715072#981"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/MyDocument_Pasteboard.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument_Pasteboard.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument_Pasteboard.o /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431566.236655
+e309431566.797143
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument_Pasteboard.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: no '-createRecordsFromPasteboard:' method found
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: (Messages without a matching method signature
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: will be assumed to return 'id' and accept
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: '...' as arguments.)
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m: At top level:
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:90: warning: incomplete implementation of category 'Pasteboard'
+o/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:90: warning: method definition for '-readablePasteboardTypes' not found
+lSLF07#2@75"Compile /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m309431566#309431566#0(974"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m: In function '-[MyDocument(Pasteboard) canTakeValueFromPasteboard:]':/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: no '-createRecordsFromPasteboard:' method found/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: (Messages without a matching method signature/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: will be assumed to return 'id' and accept/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:78: warning: '...' as arguments.)/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m: At top level:/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:90: warning: incomplete implementation of category 'Pasteboard'/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m:90: warning: method definition for '-readablePasteboardTypes' not found5(22@47"No '-createRecordsFromPasteboard:' method found309431566#138#129#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m238429064#78#0#78#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)309431566#267#127#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m238429064#78#0#78#0#0"0(23@13"At top level:309431566#619#83#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m238429064#0#0#0#0#0"0(22@50"Incomplete implementation of category 'Pasteboard'309431566#702#132#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m238429064#90#0#90#0#0"0(22@58"Method definition for '-readablePasteboardTypes' not found309431566#834#140#0(6@67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m238429064#90#0#90#0#35"method definition for '*' not found0(0#0#67"/Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m8606208800#1027"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument_Pasteboard.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/MyDocument_Pasteboard.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/PreferenceController.o /Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431566.797236
+e309431567.366721
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/PreferenceController.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@74"Compile /Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m309431566#309431567#0(0"0(0#0#66"/Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m8605525600#1025"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/PreferenceController.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/PreferenceController.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/SelData.o /Users/pappel/Desktop/Trinity1.6/SelData.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/SelData.o /Users/pappel/coding/Objective-C/Trinity1.6/SelData.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099221.324764
+e309099221.913743
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/SelData.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/SelData.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/Trinity1.6/SelData.m309099221#309099221#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/Trinity1.6/SelData.m8609263904#953"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/SelData.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/SelData.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/SelData.o /Users/pappel/coding/Objective-C/Trinity1.7/SelData.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431566.762278
+e309431567.327359
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/SelData.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/SelData.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/pappel/coding/Objective-C/Trinity1.7/SelData.m309431566#309431567#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/Trinity1.7/SelData.m8603221248#999"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/SelData.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/SelData.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol+Archiving.o /Users/pappel/Desktop/Trinity1.6/Symbol+Archiving.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol+Archiving.o /Users/pappel/coding/Objective-C/Trinity1.6/Symbol+Archiving.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099220.031780
+e309099220.650518
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol+Archiving.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/Symbol+Archiving.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@70"Compile /Users/pappel/coding/Objective-C/Trinity1.6/Symbol+Archiving.m309099220#309099220#0(0"0(0#0#62"/Users/pappel/coding/Objective-C/Trinity1.6/Symbol+Archiving.m8613802432#971"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/Symbol+Archiving.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol+Archiving.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol+Archiving.o /Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431565.102538
+e309431565.651477
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol+Archiving.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@70"Compile /Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m309431565#309431565#0(0"0(0#0#62"/Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m8604401632#1017"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/Symbol+Archiving.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol+Archiving.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol.o /Users/pappel/Desktop/Trinity1.6/Symbol.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol.o /Users/pappel/coding/Objective-C/Trinity1.6/Symbol.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099218.680231
+e309099219.404263
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/Symbol.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@60"Compile /Users/pappel/coding/Objective-C/Trinity1.6/Symbol.m309099218#309099219#0(0"0(0#0#52"/Users/pappel/coding/Objective-C/Trinity1.6/Symbol.m8616497024#951"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/Symbol.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol.o /Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431563.868534
+e309431564.499273
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@60"Compile /Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m309431563#309431564#0(0"0(0#0#52"/Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m8604520160#997"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/Symbol.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Symbol.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/ZoomScrollView.o /Users/pappel/Desktop/Trinity1.6/ZoomScrollView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/ZoomScrollView.o /Users/pappel/coding/Objective-C/Trinity1.6/ZoomScrollView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099220.650614
+e309099221.324665
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/ZoomScrollView.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/ZoomScrollView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@68"Compile /Users/pappel/coding/Objective-C/Trinity1.6/ZoomScrollView.m309099220#309099221#0(0"0(0#0#60"/Users/pappel/coding/Objective-C/Trinity1.6/ZoomScrollView.m8617368576#967"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/ZoomScrollView.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/ZoomScrollView.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/ZoomScrollView.o /Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431566.185619
+e309431566.762184
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/ZoomScrollView.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@68"Compile /Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m309431566#309431566#0(0"0(0#0#60"/Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m8607011776#1013"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/ZoomScrollView.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/ZoomScrollView.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/main.o /Users/pappel/Desktop/Trinity1.6/main.m normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/main.o /Users/pappel/coding/Objective-C/Trinity1.6/main.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309099216.714813
+e309099218.680053
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/main.o
+x/Users/pappel/coding/Objective-C/Trinity1.6/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@58"Compile /Users/pappel/coding/Objective-C/Trinity1.6/main.m309099216#309099218#0(0"0(0#0#50"/Users/pappel/coding/Objective-C/Trinity1.6/main.m8620432352#947"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.6/main.m -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/main.o /Users/pappel/coding/Objective-C/Trinity1.7/main.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s309431563.769949
+e309431564.376299
+r1
+xCompileC
+xbuild/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/main.o
+x/Users/pappel/coding/Objective-C/Trinity1.7/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@58"Compile /Users/pappel/coding/Objective-C/Trinity1.7/main.m309431563#309431564#0(0"0(0#0#50"/Users/pappel/coding/Objective-C/Trinity1.7/main.m8606004352#993"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Trinity.hmap -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/include -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources/ppc -I/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/DerivedSources -c /Users/pappel/coding/Objective-C/Trinity1.7/main.m -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/main.o0#
+
+CCompileXIB /Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/Preferences.xib
+s328226950.075511
+e328226950.402987
+r1
+xCompileXIB
+x/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/Preferences.xib
+lSLF07#2@40"CompileXIB English.lproj/Preferences.xib328226950#328226950#0(0"0(0#0#73"/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/Preferences.xib8613388640#390"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/Preferences.nib /Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/Preferences.xib --sdk /Developer-3/SDKs/MacOSX10.4u.sdk0#
+
+CCompileXIB /Users/pappel/coding/Objective-C/Trinity1.7/Preferences.xib
+s309217541.795871
+e309217542.002234
+r1
+xCompileXIB
+x/Users/pappel/coding/Objective-C/Trinity1.7/Preferences.xib
+lSLF07#2@26"CompileXIB Preferences.xib309217541#309217542#0(0"0(0#0#59"/Users/pappel/coding/Objective-C/Trinity1.7/Preferences.xib8853930496#358"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/Preferences.nib /Users/pappel/coding/Objective-C/Trinity1.7/Preferences.xib --sdk /Developer/SDKs/MacOSX10.4u.sdk0#
+
+CCompileXIB /Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/Preferences.xib
+s328226950.145295
+e328226950.467555
+r1
+xCompileXIB
+x/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/Preferences.xib
+lSLF07#2@35"CompileXIB de.lproj/Preferences.xib328226950#328226950#0(0"0(0#0#68"/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/Preferences.xib8613089568#380"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj/Preferences.nib /Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/Preferences.xib --sdk /Developer-3/SDKs/MacOSX10.4u.sdk0#
+
+CCopyStringsFile /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s275489897.683650
+e275489897.925314
+r1
+xCopyStringsFile
+x/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings275489897#275489897#0(0"0(0#0#64"/Users/pappel/Desktop/Trinity1.6/English.lproj/InfoPlist.strings4300882208#354"    cd /Users/pappel/Desktop/Trinity1.6    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s275489897.702066
+e275489897.940867
+r1
+xCopyStringsFile
+x/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings275489897#275489897#0(0"0(0#0#66"/Users/pappel/Desktop/Trinity1.6/English.lproj/Localizable.strings4300882208#355"    cd /Users/pappel/Desktop/Trinity1.6    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/Localizable.strings --outdir /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/Localizable.strings German.lproj/Localizable.strings
+s275489897.925408
+e275489897.963595
+r1
+xCopyStringsFile
+x/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/Localizable.strings
+xGerman.lproj/Localizable.strings
+lSLF07#2@37"Copy German.lproj/Localizable.strings275489897#275489897#0(0"0(0#0#65"/Users/pappel/Desktop/Trinity1.6/German.lproj/Localizable.strings4300882208#353"    cd /Users/pappel/Desktop/Trinity1.6    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 German.lproj/Localizable.strings --outdir /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj0#
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/Localizable.strings German.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s328226949.935959
+e328226950.025867
+r1
+xCopyStringsFile
+x/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings328226949#328226950#0(0"0(0#0#75"/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/InfoPlist.strings8616378144#378"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv ICONV /usr/bin/iconv    /Developer-3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s328226950.004359
+e328226950.054218
+r1
+xCopyStringsFile
+x/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings328226950#328226950#0(0"0(0#0#77"/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/Localizable.strings8611055040#379"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv ICONV /usr/bin/iconv    /Developer-3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/Localizable.strings --outdir /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/German.lproj/Localizable.strings German.lproj/Localizable.strings
+s309218239.997936
+e309218240.027669
+r1
+xCopyStringsFile
+x/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/German.lproj/Localizable.strings
+xGerman.lproj/Localizable.strings
+lSLF07#2@37"Copy German.lproj/Localizable.strings309218239#309218240#0(0"0(0#0#76"/Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/Localizable.strings8611800512#375"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 German.lproj/Localizable.strings --outdir /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/German.lproj0#
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/Localizable.strings Localizable.strings
+r0
+
+CCopyStringsFile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj/Localizable.strings de.lproj/Localizable.strings
+s328226950.074190
+e328226950.145204
+r1
+xCopyStringsFile
+x/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj/Localizable.strings
+xde.lproj/Localizable.strings
+lSLF07#2@33"Copy de.lproj/Localizable.strings328226950#328226950#0(0"0(0#0#72"/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/Localizable.strings8595503424#369"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv ICONV /usr/bin/iconv    /Developer-3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 de.lproj/Localizable.strings --outdir /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj0#
+
+CCpResource build/Debug/Trinity.app/Contents/Resources/Credits.rtf Credits.rtf
+r0
+
+CCpResource build/Debug/Trinity.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s328226949.547216
+e328226949.609976
+r1
+xCpResource
+xbuild/Debug/Trinity.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf328226949#328226949#0(0"0(0#0#69"/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/Credits.rtf8620835392#386"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/Credits.rtf /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Trinity.app/Contents/Resources/German.lproj/Credits.rtf German.lproj/Credits.rtf
+s309218239.311958
+e309218239.359418
+r1
+xCpResource
+xbuild/Debug/Trinity.app/Contents/Resources/German.lproj/Credits.rtf
+xGerman.lproj/Credits.rtf
+lSLF07#2@29"Copy German.lproj/Credits.rtf309218239#309218239#0(0"0(0#0#68"/Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/Credits.rtf8596739808#368"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/Credits.rtf /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/German.lproj0#
+
+CCpResource build/Debug/Trinity.app/Contents/Resources/Views_3.xcclassmodel Views_3.xcclassmodel
+s328226950.002476
+e328226950.071746
+r1
+xCpResource
+xbuild/Debug/Trinity.app/Contents/Resources/Views_3.xcclassmodel
+xViews_3.xcclassmodel
+lSLF07#2@25"Copy Views_3.xcclassmodel328226950#328226950#0(0"0(0#0#64"/Users/pappel/coding/Objective-C/Trinity1.7/Views_3.xcclassmodel8612147200#367"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/pappel/coding/Objective-C/Trinity1.7/Views_3.xcclassmodel /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources0#
+
+CCpResource build/Debug/Trinity.app/Contents/Resources/Views_6.xcclassmodel Views_6.xcclassmodel
+s328226949.998768
+e328226950.073379
+r1
+xCpResource
+xbuild/Debug/Trinity.app/Contents/Resources/Views_6.xcclassmodel
+xViews_6.xcclassmodel
+lSLF07#2@25"Copy Views_6.xcclassmodel328226949#328226950#0(0"0(0#0#64"/Users/pappel/coding/Objective-C/Trinity1.7/Views_6.xcclassmodel8605884096#367"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/pappel/coding/Objective-C/Trinity1.7/Views_6.xcclassmodel /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources0#
+
+CCpResource build/Debug/Trinity.app/Contents/Resources/Views_7.xcclassmodel Views_7.xcclassmodel
+s328226949.996921
+e328226950.075442
+r1
+xCpResource
+xbuild/Debug/Trinity.app/Contents/Resources/Views_7.xcclassmodel
+xViews_7.xcclassmodel
+lSLF07#2@25"Copy Views_7.xcclassmodel328226949#328226950#0(0"0(0#0#64"/Users/pappel/coding/Objective-C/Trinity1.7/Views_7.xcclassmodel8610091392#367"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/pappel/coding/Objective-C/Trinity1.7/Views_7.xcclassmodel /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources0#
+
+CCpResource build/Debug/Trinity.app/Contents/Resources/de.lproj/Credits.rtf de.lproj/Credits.rtf
+s328226949.547831
+e328226949.595283
+r1
+xCpResource
+xbuild/Debug/Trinity.app/Contents/Resources/de.lproj/Credits.rtf
+xde.lproj/Credits.rtf
+lSLF07#2@25"Copy de.lproj/Credits.rtf328226949#328226949#0(0"0(0#0#64"/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/Credits.rtf8620797536#376"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/Credits.rtf /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj0#
+
+CCpResource build/Debug/Trinity.app/Contents/Resources/dreieck.icns dreieck.icns
+s328226950.000608
+e328226950.074118
+r1
+xCpResource
+xbuild/Debug/Trinity.app/Contents/Resources/dreieck.icns
+xdreieck.icns
+lSLF07#2@17"Copy dreieck.icns328226950#328226950#0(0"0(0#0#56"/Users/pappel/coding/Objective-C/Trinity1.7/dreieck.icns8590395904#359"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/pappel/coding/Objective-C/Trinity1.7/dreieck.icns /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources0#
+
+CCpResource build/Debug/Trinity.app/Contents/Resources/dsa_pub.pem dsa_pub.pem
+s328226950.403081
+e328226950.432171
+r1
+xCpResource
+xbuild/Debug/Trinity.app/Contents/Resources/dsa_pub.pem
+xdsa_pub.pem
+lSLF07#2@16"Copy dsa_pub.pem328226950#328226950#0(0"0(0#0#55"/Users/pappel/coding/Objective-C/Trinity1.7/dsa_pub.pem8620778400#358"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/pappel/coding/Objective-C/Trinity1.7/dsa_pub.pem /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/MacOS/Trinity normal "i386 ppc"
+r0
+
+CCreateUniversalBinary /Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/MacOS/Trinity normal "i386 ppc"
+s309099224.968870
+e309099225.118712
+r1
+xCreateUniversalBinary
+x/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/MacOS/Trinity
+xnormal
+xi386 ppc
+lSLF07#2@86"CreateUniversalBinary build/Debug/Trinity.app/Contents/MacOS/Trinity normal "i386 ppc"309099224#309099225#0(0"0(0#0#52"/Users/pappel/coding/Objective-C/Trinity1.6/i386 ppc8614654848#399"    cd /Users/pappel/coding/Objective-C/Trinity1.6    /usr/bin/lipo -create /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity -output /Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/MacOS/Trinity0#
+
+CCreateUniversalBinary /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/MacOS/Trinity normal "i386 ppc"
+s309431568.233731
+e309431568.268727
+r1
+xCreateUniversalBinary
+x/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/MacOS/Trinity
+xnormal
+xi386 ppc
+lSLF07#2@86"CreateUniversalBinary build/Debug/Trinity.app/Contents/MacOS/Trinity normal "i386 ppc"309431568#309431568#0(0"0(0#0#52"/Users/pappel/coding/Objective-C/Trinity1.7/i386 ppc8603979264#399"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /usr/bin/lipo -create /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity -output /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/MacOS/Trinity0#
+
+CLd /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/MacOS/Trinity normal i386
+s275489902.407679
+e275489902.489968
+r1
+xLd
+x/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/MacOS/Trinity
+xnormal
+xi386
+lSLF07#2@84"Link /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/MacOS/Trinity275489902#275489902#0(0"0(0#0#0"4300882208#509"    cd /Users/pappel/Desktop/Trinity1.6    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/gcc-4.0 -arch i386 -isysroot /Developer/SDKs/MacOSX10.4u.sdk -L/Users/pappel/Desktop/Trinity1.6/build/Debug -F/Users/pappel/Desktop/Trinity1.6/build/Debug -filelist /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity.LinkFileList -mmacosx-version-min=10.4 -framework Cocoa -o /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/MacOS/Trinity0#
+
+CLd /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity normal i386
+r0
+
+CLd /Users/pappel/Desktop/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity normal ppc
+r0
+
+CLd /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity normal i386
+s289762583.755406
+e289762585.309017
+r1
+xLd
+x/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity
+xnormal
+xi386
+lSLF07#2@116"Link /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity289762583#289762585#0(0"0(0#0#0"22236725030158444#585"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/gcc-4.0 -arch i386 -isysroot /Developer/SDKs/MacOSX10.4u.sdk -L/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -filelist /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity.LinkFileList -mmacosx-version-min=10.4 -framework Cocoa -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity0#
+
+CLd /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity normal ppc
+s309099221.913841
+e309099224.968646
+r1
+xLd
+x/Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity
+xnormal
+xppc
+old: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o
+lSLF07#2@115"Link /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity309099221#309099224#0(184"ld: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o1(22@170"Object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o309099224#0#184#0(6@0"309099224#0#0#0#0#0"0(0#0#0"8616607200#582"    cd /Users/pappel/coding/Objective-C/Trinity1.6    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/gcc-4.0 -arch ppc -isysroot /Developer/SDKs/MacOSX10.4u.sdk -L/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug -filelist /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity.LinkFileList -mmacosx-version-min=10.4 -framework Cocoa -o /Users/pappel/coding/Objective-C/Trinity1.6/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity0#
+
+CLd /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/MacOS/Trinity normal i386
+s328226955.248359
+e328226955.413325
+r1
+xLd
+x/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/MacOS/Trinity
+xnormal
+xi386
+lSLF07#2@95"Link /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/MacOS/Trinity328226955#328226955#0(0"0(0#0#0"8613325792#633"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer-3/usr/bin/gcc-4.0 -arch i386 -isysroot /Developer-3/SDKs/MacOSX10.4u.sdk -L/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -filelist /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity.LinkFileList -mmacosx-version-min=10.4 -framework Cocoa -framework Sparkle -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/MacOS/Trinity0#
+
+CLd /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity normal i386
+s309431562.422873
+e309431563.868397
+r1
+xLd
+x/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity
+xnormal
+xi386
+lSLF07#2@116"Link /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity309431562#309431563#0(0"0(0#0#0"8603775616#650"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/gcc-4.0 -arch i386 -isysroot /Developer/SDKs/MacOSX10.4u.sdk -L/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -filelist /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity.LinkFileList -mmacosx-version-min=10.4 -framework Cocoa -framework Sparkle -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/i386/Trinity0#
+
+CLd /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity normal ppc
+s309431567.847530
+e309431568.233613
+r1
+xLd
+x/Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity
+xnormal
+xppc
+old: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o
+lSLF07#2@115"Link /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity309431567#309431568#0(184"ld: warning: object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o1(22@170"Object file compiled with -mlong-branch which is no longer needed. To remove this warning, recompile without -mlong-branch: /Developer/SDKs/MacOSX10.4u.sdk/usr/lib/crt1.o309431568#0#184#0(6@0"309431568#0#0#0#0#0"0(0#0#0"8607102176#647"    cd /Users/pappel/coding/Objective-C/Trinity1.7    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/gcc-4.0 -arch ppc -isysroot /Developer/SDKs/MacOSX10.4u.sdk -L/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug -F/Users/pappel/coding/Objective-C/Trinity1.7 -filelist /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity.LinkFileList -mmacosx-version-min=10.4 -framework Cocoa -framework Sparkle -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Trinity.build/Debug/Trinity.build/Objects-normal/ppc/Trinity0#
+
+CPBXCp build/Debug/Trinity.app/Contents/Frameworks/Sparkle.framework Sparkle.framework
+s328226955.413440
+e328226955.849939
+r1
+xPBXCp
+xbuild/Debug/Trinity.app/Contents/Frameworks/Sparkle.framework
+xSparkle.framework
+lSLF07#2@22"Copy Sparkle.framework328226955#328226955#0(0"0(0#0#61"/Users/pappel/coding/Objective-C/Trinity1.7/Sparkle.framework8612293920#365"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/pappel/coding/Objective-C/Trinity1.7/Sparkle.framework /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Info.plist Info.plist
+s275489896.578019
+e275489896.606828
+r1
+xProcessInfoPlistFile
+x/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist275489896#275489896#0(0"0(0#0#43"/Users/pappel/Desktop/Trinity1.6/Info.plist4300882208#284"    cd /Users/pappel/Desktop/Trinity1.6    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Info.plist Info.plist
+r0
+
+CProcessInfoPlistFile /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Info.plist Info.plist
+s328226949.515866
+e328226949.547125
+r1
+xProcessInfoPlistFile
+x/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist328226949#328226949#0(0"0(0#0#54"/Users/pappel/coding/Objective-C/Trinity1.7/Info.plist8616706112#317"    cd /Users/pappel/coding/Objective-C/Trinity1.7    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Info.plist0#
+
+CStripNIB /Users/pappel/Desktop/Trinity1.6/English.lproj/MainMenu.nib
+s275489896.608201
+e275489897.555875
+r1
+xStripNIB
+x/Users/pappel/Desktop/Trinity1.6/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib275489896#275489897#0(0"0(0#0#59"/Users/pappel/Desktop/Trinity1.6/English.lproj/MainMenu.nib4300882208#277"    cd /Users/pappel/Desktop/Trinity1.6    /Developer/usr/bin/ibtool --strip /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/pappel/Desktop/Trinity1.6/English.lproj/MainMenu.nib0#
+
+CStripNIB /Users/pappel/Desktop/Trinity1.6/English.lproj/MyDocument.nib
+s275489897.555970
+e275489897.683560
+r1
+xStripNIB
+x/Users/pappel/Desktop/Trinity1.6/English.lproj/MyDocument.nib
+lSLF07#2@37"StripNIB English.lproj/MyDocument.nib275489897#275489897#0(0"0(0#0#61"/Users/pappel/Desktop/Trinity1.6/English.lproj/MyDocument.nib4300882208#281"    cd /Users/pappel/Desktop/Trinity1.6    /Developer/usr/bin/ibtool --strip /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/English.lproj/MyDocument.nib --output-format human-readable-text /Users/pappel/Desktop/Trinity1.6/English.lproj/MyDocument.nib0#
+
+CStripNIB /Users/pappel/Desktop/Trinity1.6/German.lproj/MainMenu.nib
+s275489896.658827
+e275489897.556675
+r1
+xStripNIB
+x/Users/pappel/Desktop/Trinity1.6/German.lproj/MainMenu.nib
+lSLF07#2@34"StripNIB German.lproj/MainMenu.nib275489896#275489897#0(0"0(0#0#58"/Users/pappel/Desktop/Trinity1.6/German.lproj/MainMenu.nib4300882208#275"    cd /Users/pappel/Desktop/Trinity1.6    /Developer/usr/bin/ibtool --strip /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/MainMenu.nib --output-format human-readable-text /Users/pappel/Desktop/Trinity1.6/German.lproj/MainMenu.nib0#
+
+CStripNIB /Users/pappel/Desktop/Trinity1.6/German.lproj/MyDocument.nib
+s275489897.556732
+e275489897.690828
+r1
+xStripNIB
+x/Users/pappel/Desktop/Trinity1.6/German.lproj/MyDocument.nib
+lSLF07#2@36"StripNIB German.lproj/MyDocument.nib275489897#275489897#0(0"0(0#0#60"/Users/pappel/Desktop/Trinity1.6/German.lproj/MyDocument.nib4300882208#279"    cd /Users/pappel/Desktop/Trinity1.6    /Developer/usr/bin/ibtool --strip /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/MyDocument.nib --output-format human-readable-text /Users/pappel/Desktop/Trinity1.6/German.lproj/MyDocument.nib0#
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.6/English.lproj/MainMenu.nib
+r0
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.6/English.lproj/MyDocument.nib
+r0
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.6/German.lproj/MainMenu.nib
+r0
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.6/German.lproj/MyDocument.nib
+s289763107.827897
+e289763107.930708
+r1
+xStripNIB
+x/Users/pappel/coding/Objective-C/Trinity1.6/German.lproj/MyDocument.nib
+lSLF07#2@36"StripNIB German.lproj/MyDocument.nib289763107#289763107#0(0"0(0#0#71"/Users/pappel/coding/Objective-C/Trinity1.6/German.lproj/MyDocument.nib4300885448#312"    cd /Users/pappel/coding/Objective-C/Trinity1.6    /Developer/usr/bin/ibtool --strip /Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app/Contents/Resources/German.lproj/MyDocument.nib --output-format human-readable-text /Users/pappel/coding/Objective-C/Trinity1.6/German.lproj/MyDocument.nib0#
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MainMenu.nib
+s328226949.548395
+e328226949.734252
+r1
+xStripNIB
+x/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib328226949#328226949#0(0"0(0#0#70"/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MainMenu.nib8620754112#312"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/usr/bin/ibtool --strip /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MainMenu.nib0#
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MyDocument.nib
+s328226949.734332
+e328226949.935841
+r1
+xStripNIB
+x/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MyDocument.nib
+lSLF07#2@37"StripNIB English.lproj/MyDocument.nib328226949#328226949#0(0"0(0#0#72"/Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MyDocument.nib8619775200#316"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/usr/bin/ibtool --strip /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/English.lproj/MyDocument.nib --output-format human-readable-text /Users/pappel/coding/Objective-C/Trinity1.7/English.lproj/MyDocument.nib0#
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/MainMenu.nib
+s309207704.778021
+e309207704.922503
+r1
+xStripNIB
+x/Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/MainMenu.nib
+lSLF07#2@34"StripNIB German.lproj/MainMenu.nib309207704#309207704#0(0"0(0#0#69"/Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/MainMenu.nib8617436576#308"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer/usr/bin/ibtool --strip /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/German.lproj/MainMenu.nib --output-format human-readable-text /Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/MainMenu.nib0#
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/MyDocument.nib
+s309217191.212888
+e309217191.372170
+r1
+xStripNIB
+x/Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/MyDocument.nib
+lSLF07#2@36"StripNIB German.lproj/MyDocument.nib309217191#309217191#0(0"0(0#0#71"/Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/MyDocument.nib8879275648#312"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer/usr/bin/ibtool --strip /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/German.lproj/MyDocument.nib --output-format human-readable-text /Users/pappel/coding/Objective-C/Trinity1.7/German.lproj/MyDocument.nib0#
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/MainMenu.nib
+r0
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/MyDocument.nib
+r0
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MainMenu.nib
+s328226949.610062
+e328226949.753276
+r1
+xStripNIB
+x/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MainMenu.nib
+lSLF07#2@30"StripNIB de.lproj/MainMenu.nib328226949#328226949#0(0"0(0#0#65"/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MainMenu.nib8620736128#302"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/usr/bin/ibtool --strip /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj/MainMenu.nib --output-format human-readable-text /Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MainMenu.nib0#
+
+CStripNIB /Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MyDocument.nib
+s328226949.753364
+e328226949.996812
+r1
+xStripNIB
+x/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MyDocument.nib
+lSLF07#2@32"StripNIB de.lproj/MyDocument.nib328226949#328226949#0(0"0(0#0#67"/Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MyDocument.nib8616923008#306"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /Developer-3/usr/bin/ibtool --strip /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app/Contents/Resources/de.lproj/MyDocument.nib --output-format human-readable-text /Users/pappel/coding/Objective-C/Trinity1.7/de.lproj/MyDocument.nib0#
+
+CTouch /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app
+s275489902.490056
+e275489902.494460
+r1
+xTouch
+x/Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app
+lSLF07#2@62"Touch /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app275489902#275489902#0(0"0(0#0#0"4300882208#119"    cd /Users/pappel/Desktop/Trinity1.6    /usr/bin/touch -c /Users/pappel/Desktop/Trinity1.6/build/Debug/Trinity.app0#
+
+CTouch /Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app
+s309099225.118809
+e309099225.148308
+r1
+xTouch
+x/Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app
+lSLF07#2@73"Touch /Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app309099225#309099225#0(0"0(0#0#0"8616326208#141"    cd /Users/pappel/coding/Objective-C/Trinity1.6    /usr/bin/touch -c /Users/pappel/coding/Objective-C/Trinity1.6/build/Debug/Trinity.app0#
+
+CTouch /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app
+s328226955.850057
+e328226955.854728
+r1
+xTouch
+x/Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app
+lSLF07#2@73"Touch /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app328226955#328226955#0(0"0(0#0#0"8620502528#141"    cd /Users/pappel/coding/Objective-C/Trinity1.7    /usr/bin/touch -c /Users/pappel/coding/Objective-C/Trinity1.7/build/Debug/Trinity.app0#
+

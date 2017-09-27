@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>Trinity Changlog</title>
+      <link>http://rhodesit.min.uni-kiel.de/~pa/appcast_tri.xml</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>
+         <item>
+            <title>Trinity Version 1.7</title>
+	<sparkle:releaseNotesLink> http://rhodesit.min.uni-kiel.de/~pa/trinity.html</sparkle:releaseNotesLink>
+            <pubDate>Fri, 22 Oct 2010 14:00:00 +0000</pubDate>
+            <enclosure url="http://rhodesit.min.uni-kiel.de/~pa/pub/software/trinity.tgz" 
+            sparkle:version="1.7" 
+            length="513070" 
+            type="application/octet-stream" 
+            sparkle:dsaSignature="MC0CFG7XiaFeRNcHgJtw+eFuhihl76A6AhUAtz8kf0yxiwvYJZNrqCi6eCtB1k4="
+             />
+            
+         </item>
+   </channel>
+</rss>
