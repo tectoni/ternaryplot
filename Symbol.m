@@ -80,13 +80,12 @@ if (self = [super init])
 	[self setYLoc:point.y];
 	NSRect symbolBounds =  
 				NSMakeRect(xLoc-radius, yLoc-radius, radius*2, radius*2);
-	NSBezierPath *symbol;
+	NSBezierPath *symbol = [NSBezierPath bezierPath];
 		NSLog(@"symbol drawInView %@", self);
 
 //	NSLog(@"symbol drawInView %f  %f", xLoc, yLoc);
 	NSColor *myColor = [self color];
 	if (myColor == nil) { myColor = [NSColor redColor]; }
-	
 	
 		switch (pathType) {
 			// Circle

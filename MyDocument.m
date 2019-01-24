@@ -20,8 +20,8 @@
     self = [super init];
     if (self) {
 		graphics =[[NSMutableArray alloc] init];
-    }
-	containsData = NO;
+        containsData = NO;
+}
     return self;
 }
 
@@ -374,20 +374,23 @@
 
 -(void)updateCellHeaders
 {
-NSTableHeaderCell *headerACell = [[[NSTableHeaderCell alloc] init] retain];
+NSTableHeaderCell *headerACell = [[NSTableHeaderCell alloc] init];
 [headerACell setStringValue:[textFieldA stringValue]];
 [headerACell setAlignment:NSCenterTextAlignment];
 [[table tableColumnWithIdentifier:@"aValue"] setHeaderCell:headerACell];
+[headerACell release];
 
-NSTableHeaderCell *headerBCell = [[[NSTableHeaderCell alloc] init] retain];
+NSTableHeaderCell *headerBCell = [[NSTableHeaderCell alloc] init];
 [headerBCell setStringValue:[textFieldB stringValue]];
 [headerBCell setAlignment:NSCenterTextAlignment];
 [[table tableColumnWithIdentifier:@"bValue"] setHeaderCell:headerBCell];
+[headerBCell release];
 
-NSTableHeaderCell *headerCCell = [[[NSTableHeaderCell alloc] init] retain];
+NSTableHeaderCell *headerCCell = [[NSTableHeaderCell alloc] init];
 [headerCCell setStringValue:[textFieldC stringValue]];
 [headerCCell setAlignment:NSCenterTextAlignment];
 [[table tableColumnWithIdentifier:@"cValue"] setHeaderCell:headerCCell];
+[headerCCell release];
 
 }
 

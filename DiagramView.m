@@ -285,13 +285,13 @@ if ((self = [super initWithFrame:frameRect]) != nil) {
 	[[NSColor blackColor] set];
 	NSBezierPath *tickPath; 
 	NSEraseRect(rect);
-	NSBezierPath *path;
+    NSBezierPath *path = [NSBezierPath bezierPath];
 //	NSLog(@"frame %f  %f  %f  %f",  bounds.size.width, bounds.size.height,  bounds.origin.x, bounds.origin.y);
 //	NSLog(@"boundsRect = %@", NSStringFromRect(bounds));
 //	NSLog(@"frameRect = %@", NSStringFromRect([self frame]));
 
 // Draw Ternary
-	path = [[NSBezierPath alloc] init];
+//	path = [[NSBezierPath alloc] init];
 			[path setLineWidth: 1.0];
 			a.x = 0;
 			a.y = 0;
