@@ -20,7 +20,7 @@
 
 
 /* Methods for writing from the pasteboard */
--(NSArray *)readablePasteboardTypes;
+//-(NSArray *)readablePasteboardTypes;
 -(BOOL)canTakeValueFromPasteboard:(NSPasteboard *)pb;
 -(void)paste:(id)sender;
 

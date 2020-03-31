@@ -38,7 +38,7 @@ if ((self = [super initWithFrame:frameRect]) != nil) {
 			selArray = [[NSMutableArray alloc] init];
 
 			NSLog(@"DiagramView initWithFrame %@", self);
-			[NSApp setDelegate: self];
+	//		[NSApp setDelegate: self];
 			[self setSaveable: YES];
 			[self setNeedsDisplay: YES];
 			bindingInfo = [[NSMutableDictionary alloc] init];
@@ -538,7 +538,7 @@ NSLog(@"drawRect %@", self);
 	 */
 	if (aGraphic == nil)
 	{
-		if (!([event modifierFlags] & NSShiftKeyMask))
+        if (!([event modifierFlags] & NSEventModifierFlagShift))
 		{
 			[[self selectionIndexesContainer] setValue:nil forKeyPath:[self selectionIndexesKeyPath]];
 		}
@@ -555,7 +555,7 @@ NSLog(@"drawRect %@", self);
 	NSIndexSet *selection = nil;
 	unsigned int graphicIndex = [[self graphics] indexOfObject:aGraphic];
 	
-	if (!([event modifierFlags] & NSShiftKeyMask))
+    if (!([event modifierFlags] & NSEventModifierFlagShift))
 	{
 		selection = [NSIndexSet indexSetWithIndex:graphicIndex];
 	}
@@ -831,8 +831,9 @@ objectValueForTableColumn:(NSTableColumn *)aTableColumn
 	else		
 	{
 		[symbolController setSelectedObjects:[[selArray objectAtIndex:selectedRow] sel] ];
-		[selTable selectRow:selectedRow byExtendingSelection:NO];
-		NSLog(@"selextion %i,  %i", [[[selArray objectAtIndex:selectedRow] sel] count], selectedRow );
+// decrepated		[selTable selectRow:selectedRow byExtendingSelection:NO];
+        [selTable selectRowIndexes:[NSIndexSet indexSetWithIndex:selectedRow] byExtendingSelection:NO];
+        NSLog(@"selextion %lu,  %i", (unsigned long)[[[selArray objectAtIndex:selectedRow] sel] count], selectedRow );
 
 	}
 }	

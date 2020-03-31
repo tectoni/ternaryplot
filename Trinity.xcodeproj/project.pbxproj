@@ -24,11 +24,11 @@
 		E29304690D2FE7DB00F9DB2F /* Symbol+Archiving.m in Sources */ = {isa = PBXBuildFile; fileRef = E29304680D2FE7DB00F9DB2F /* Symbol+Archiving.m */; };
 		E29A7C770E36179A002F46F5 /* MyDocument_Pasteboard.m in Sources */ = {isa = PBXBuildFile; fileRef = E29A7C760E36179A002F46F5 /* MyDocument_Pasteboard.m */; };
 		E2A7C2D50D3D154900FF972F /* dreieck.icns in Resources */ = {isa = PBXBuildFile; fileRef = E2A7C2D40D3D154900FF972F /* dreieck.icns */; };
-		E2B72EFB126C7E5F001A80A0 /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2B72EFA126C7E5F001A80A0 /* Sparkle.framework */; };
-		E2B72F96126C8F4D001A80A0 /* Sparkle.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = E2B72EFA126C7E5F001A80A0 /* Sparkle.framework */; };
 		E2B7508C126E4CC200F3E663 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = E2B7508B126E4CC200F3E663 /* Credits.rtf */; };
 		E2B75090126E4D0900F3E663 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = E2B7508F126E4D0900F3E663 /* Localizable.strings */; };
 		E2BD73950D16D1F40046A362 /* GraphicsArrayController.m in Sources */ = {isa = PBXBuildFile; fileRef = E2BD73940D16D1F40046A362 /* GraphicsArrayController.m */; };
+		E2C47ADB24334650000755C2 /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2C47ADA24334650000755C2 /* Sparkle.framework */; };
+		E2C47ADC24334663000755C2 /* Sparkle.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = E2C47ADA24334650000755C2 /* Sparkle.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		E2DAC7B912718CF5000D90D1 /* dsa_pub.pem in Resources */ = {isa = PBXBuildFile; fileRef = E2DAC7B812718CF5000D90D1 /* dsa_pub.pem */; };
 		E2E8D3F5126DC30800280D5E /* PreferenceController.m in Sources */ = {isa = PBXBuildFile; fileRef = E2E8D3F4126DC30800280D5E /* PreferenceController.m */; };
 		E2E8D422126DFFB800280D5E /* AppController.m in Sources */ = {isa = PBXBuildFile; fileRef = E2E8D421126DFFB800280D5E /* AppController.m */; };
@@ -44,7 +44,16 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				E2B72F96126C8F4D001A80A0 /* Sparkle.framework in CopyFiles */,
+				E2C47ADC24334663000755C2 /* Sparkle.framework in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2C47AD824334450000755C2 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 7;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,12 +94,13 @@
 		E29304680D2FE7DB00F9DB2F /* Symbol+Archiving.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Symbol+Archiving.m"; sourceTree = "<group>"; };
 		E29A7C750E36179A002F46F5 /* MyDocument_Pasteboard.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = MyDocument_Pasteboard.h; sourceTree = "<group>"; };
 		E29A7C760E36179A002F46F5 /* MyDocument_Pasteboard.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = MyDocument_Pasteboard.m; sourceTree = "<group>"; };
+		E2A0DC4E21FB7B1A002B0BCD /* Trinity.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Trinity.entitlements; sourceTree = "<group>"; };
 		E2A7C2D40D3D154900FF972F /* dreieck.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = dreieck.icns; sourceTree = "<group>"; };
-		E2B72EFA126C7E5F001A80A0 /* Sparkle.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Sparkle.framework; sourceTree = "<group>"; };
 		E2B7508D126E4CCB00F3E663 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = de; path = de.lproj/Credits.rtf; sourceTree = "<group>"; };
 		E2B75091126E4D1000F3E663 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		E2BD73930D16D1F40046A362 /* GraphicsArrayController.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = GraphicsArrayController.h; sourceTree = "<group>"; };
 		E2BD73940D16D1F40046A362 /* GraphicsArrayController.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = GraphicsArrayController.m; sourceTree = "<group>"; };
+		E2C47ADA24334650000755C2 /* Sparkle.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Sparkle.framework; sourceTree = "<group>"; };
 		E2DAC7B812718CF5000D90D1 /* dsa_pub.pem */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dsa_pub.pem; sourceTree = "<group>"; };
 		E2E8D3F3126DC30800280D5E /* PreferenceController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PreferenceController.h; sourceTree = "<group>"; };
 		E2E8D3F4126DC30800280D5E /* PreferenceController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PreferenceController.m; sourceTree = "<group>"; };
@@ -108,7 +118,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D15AC340486D014006FF6A4 /* Cocoa.framework in Frameworks */,
-				E2B72EFB126C7E5F001A80A0 /* Sparkle.framework in Frameworks */,
+				E2C47ADB24334650000755C2 /* Sparkle.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -118,7 +128,6 @@
 		1058C7A6FEA54F5311CA2CBB /* Linked Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				E2B72EFA126C7E5F001A80A0 /* Sparkle.framework */,
 				1058C7A7FEA54F5311CA2CBB /* Cocoa.framework */,
 			);
 			name = "Linked Frameworks";
@@ -127,6 +136,7 @@
 		1058C7A8FEA54F5311CA2CBB /* Other Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E2C47ADA24334650000755C2 /* Sparkle.framework */,
 				2A37F4C4FDCFA73011CA2CEA /* AppKit.framework */,
 				13E42FBA07B3F13500E4EEF1 /* CoreData.framework */,
 				2A37F4C5FDCFA73011CA2CEA /* Foundation.framework */,
@@ -144,6 +154,7 @@
 		2A37F4AAFDCFA73011CA2CEA /* DrPlot */ = {
 			isa = PBXGroup;
 			children = (
+				E2A0DC4E21FB7B1A002B0BCD /* Trinity.entitlements */,
 				E24961FB0D2BE1B600141C5F /* Views_7.xcclassmodel */,
 				E280541C0D06E69D00A3F8E4 /* Views */,
 				E28054120D06E65900A3F8E4 /* Controllers */,
@@ -257,6 +268,7 @@
 				8D15AC300486D014006FF6A4 /* Sources */,
 				8D15AC330486D014006FF6A4 /* Frameworks */,
 				E2B72F07126C7EA6001A80A0 /* CopyFiles */,
+				E2C47AD824334450000755C2 /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -274,9 +286,15 @@
 		2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 1010;
 				TargetAttributes = {
 					8D15AC270486D014006FF6A4 = {
 						DevelopmentTeam = 78ZGWNRH2G;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 0;
+							};
+						};
 					};
 				};
 			};
@@ -406,23 +424,26 @@
 		C05733C808A9546B00998B17 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 7;
 				DEVELOPMENT_TEAM = 78ZGWNRH2G;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+					"$(PROJECT_DIR)",
 				);
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)\"";
 				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_ENABLE_FIX_AND_CONTINUE = YES;
 				GCC_MODEL_TUNING = G5;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_VERSION = "";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				LD_RUNPATH_SEARCH_PATHS = "@loader_path/../Frameworks $(LD_RUNPATH_SEARCH_PATHS_$(IS_MACCATALYST))";
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MARKETING_VERSION = 1.9;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pappel.trinity;
 				PRODUCT_NAME = Trinity;
 				SDKROOT = macosx;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -434,12 +455,13 @@
 		C05733C908A9546B00998B17 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
-				CURRENT_PROJECT_VERSION = 3;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CURRENT_PROJECT_VERSION = 7;
 				DEVELOPMENT_TEAM = 78ZGWNRH2G;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+					"$(PROJECT_DIR)",
 				);
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)\"";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
@@ -447,8 +469,11 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				LD_RUNPATH_SEARCH_PATHS = "@loader_path/../Frameworks $(LD_RUNPATH_SEARCH_PATHS_$(IS_MACCATALYST))";
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MARKETING_VERSION = 1.9;
 				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pappel.trinity;
 				PRODUCT_NAME = Trinity;
 				SDKROOT = macosx;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -459,13 +484,14 @@
 		C05733CC08A9546B00998B17 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_MODEL_TUNING = G3;
 				GCC_VERSION = 4.0;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.4;
-				PREBINDING = NO;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 			};
 			name = Debug;
@@ -473,10 +499,9 @@
 		C05733CD08A9546B00998B17 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				PREBINDING = NO;
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -484,13 +509,12 @@
 		E2ECA0161391584600B35D80 /* Universal Binary */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				GCC_MODEL_TUNING = G3;
 				GCC_VERSION = 4.0;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.4;
-				PREBINDING = NO;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				SDKROOT = macosx;
 			};
 			name = "Universal Binary";
@@ -498,23 +522,26 @@
 		E2ECA0171391584600B35D80 /* Universal Binary */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 7;
 				DEVELOPMENT_TEAM = 78ZGWNRH2G;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+					"$(PROJECT_DIR)",
 				);
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)\"";
 				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_ENABLE_FIX_AND_CONTINUE = YES;
 				GCC_MODEL_TUNING = G5;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_VERSION = "";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				LD_RUNPATH_SEARCH_PATHS = "@loader_path/../Frameworks $(LD_RUNPATH_SEARCH_PATHS_$(IS_MACCATALYST))";
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MARKETING_VERSION = 1.9;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pappel.trinity;
 				PRODUCT_NAME = Trinity;
 				SDKROOT = macosx;
 				VERSIONING_SYSTEM = "apple-generic";

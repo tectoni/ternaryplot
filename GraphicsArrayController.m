@@ -220,18 +220,27 @@ writeRowsWithIndexes:(NSIndexSet *)rowIndexes
 
 
 
-- (BOOL)tableView:(NSTableView*)tv
-	   acceptDrop:(id <NSDraggingInfo>)info
-			  row:(int)row
-	dropOperation:(NSTableViewDropOperation)op
+
+
+- (BOOL) tableView: (NSTableView *) view
+        acceptDrop: (id ) info
+               row: (int) row
+     dropOperation: (NSTableViewDropOperation) op
 {
-    if (row < 0) {
-		row = 0;
-	}
-    return NO;
-}
-
-
-
+    if (op == NSTableViewDropOn) {
+        // replace existing
+        
+    } else if (op == NSTableViewDropAbove) {
+        // add new
+        
+    } else {
+        NSLog (@"unexpected operation (%lu) in %s",
+               (unsigned long)op, __FUNCTION__);
+    }
+    
+    // documentation doesn't actually say what this signifies
+    return (YES);
+    
+} // acceptDrop
 
 @end

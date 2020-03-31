@@ -17,11 +17,28 @@
     
     // Set up use of the KVO dependency mechanism for the receiving class. The use of +keysForValuesAffectingDrawingBounds and +keysForValuesAffectingDrawingContents allows subclasses to easily customize this when they define entirely new properties that affect how they draw.
 	
-	NSArray *boundsChangingKeys = [[self keysForValuesAffectingDrawingBounds] allObjects];
-	[self setKeys:boundsChangingKeys triggerChangeNotificationsForDependentKey:@"drawingBounds"];
-	[self setKeys:[[self keysForValuesAffectingDrawingContents] allObjects] triggerChangeNotificationsForDependentKey:@"drawingContents"];
-	
+    [self keyPathsForValuesAffectingValueForKey:@"drawingBounds"];
+       
+    [self keyPathsForValuesAffectingValueForKey:@"drawingContents"];
+
 }
+
+
++ (NSSet *)keyPathsForValuesAffectingValueForKey:(NSString *)key {
+    
+    NSSet *keyPaths = [super keyPathsForValuesAffectingValueForKey:key];
+    
+    if ([key isEqualToString:@"drawingBounds"]) {
+        NSArray *affectingKeys = @[@"xLoc", @"yLoc", @"radius"];
+        keyPaths = [keyPaths setByAddingObjectsFromArray:affectingKeys];
+    }
+    if ([key isEqualToString:@"drawingContents"]) {
+        NSArray *affectingKeys = @[@"xLoc", @"yLoc",  @"color", @"radius", @"pathType"];
+        keyPaths = [keyPaths setByAddingObjectsFromArray:affectingKeys];
+    }
+    return keyPaths;
+}
+
 
 + (NSSet *)keysForValuesAffectingDrawingBounds
 {    

@@ -57,21 +57,14 @@
 - (void)setLoadedHeader:(Headers *)x;
 - (void)setHeader:(Headers *)x;
 -(IBAction)savePDF:(id)sender;
--(void) didEnd:(NSSavePanel *)sheet returnCode:(int)code contextInfo: (void *)contextInfo;
 -(IBAction)importTextFile:(id)sender;
 -(IBAction)exportTextFile:(id)sender;
 -(IBAction)updateLabels:(id)sender;
 -(IBAction)connectPoints:(id)sender;	
 -(IBAction)showLabels:(id)sender;	
 
-
-
 -(void)updateCellHeaders;
-
-
 -(void)writeRecordsToTextFile:(NSString *)path;
-
--(void)openPanelDidEnd:(NSOpenPanel *)openPanel returnCode:(int)returnCode contextInfo:(void  *)contextInfo;
 
 
 @end

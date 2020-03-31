@@ -18,9 +18,9 @@
 	[zoomButton setMenu:zoomMenu];
 	[zoomButton selectItem:[zoomMenu itemWithTag:100]];
 	NSButtonCell* zoomCell = [zoomButton cell];
-	[zoomCell setControlSize:NSMiniControlSize];
-	[zoomCell setAlignment:NSRightTextAlignment];
-	[zoomCell setFont:[NSFont systemFontOfSize:[NSFont systemFontSizeForControlSize:NSMiniControlSize]]];
+    [zoomCell setControlSize:NSControlSizeMini];
+    [zoomCell setAlignment:NSTextAlignmentRight];
+    [zoomCell setFont:[NSFont systemFontOfSize:[NSFont systemFontSizeForControlSize:NSControlSizeMini]]];
 	[zoomCell setBordered:YES];
 	[zoomCell setBezeled:YES];
 	[zoomCell setBezelStyle:NSSmallSquareBezelStyle];

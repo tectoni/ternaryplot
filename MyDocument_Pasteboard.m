@@ -7,7 +7,7 @@
 //
 
 #import "MyDocument_Pasteboard.h"
-
+#import "GraphicsArrayController.h"
 
 @implementation MyDocument(Pasteboard)
 
